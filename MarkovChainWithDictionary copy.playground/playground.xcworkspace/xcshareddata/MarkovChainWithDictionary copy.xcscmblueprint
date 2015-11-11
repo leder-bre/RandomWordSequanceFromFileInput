@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "F6CCA6B651C38A7DFBD2A3C2F76F6C4BA9A7C54D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "F6CCA6B651C38A7DFBD2A3C2F76F6C4BA9A7C54D" : 0,
+    "841F739333088A2DFCAB9B221C5D319235F6D903" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "01DC18C6-8386-464E-B828-928DD0907FCB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "F6CCA6B651C38A7DFBD2A3C2F76F6C4BA9A7C54D" : "RandomWordSequanceFromFileInput\/",
+    "841F739333088A2DFCAB9B221C5D319235F6D903" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MarkovChainWithDictionary copy",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "MarkovChainWithDictionary copy.playground",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/rsgc-leder-b\/Github.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "841F739333088A2DFCAB9B221C5D319235F6D903"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/rsgc-leder-b\/RandomWordSequanceFromFileInput.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F6CCA6B651C38A7DFBD2A3C2F76F6C4BA9A7C54D"
+    }
+  ]
+}

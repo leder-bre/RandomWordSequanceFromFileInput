@@ -46,4 +46,14 @@ let delimiters = NSCharacterSet(charactersInString: ", \n")
 
 let words = content.componentsSeparatedByCharactersInSet(delimiters)
 
+var outputShlong = ""
+
 words
+
+var ui = 0;
+for ui in 1...20 {
+var dejuan = Int(arc4random_uniform(UInt32(words.count)))
+    outputShlong+=words[dejuan] + " "
+}
+
+outputShlong
